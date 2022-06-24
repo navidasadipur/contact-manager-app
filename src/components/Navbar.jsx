@@ -1,4 +1,4 @@
-import SearchContact from "./contact/SearchContact.jsx";
+import SearchContact from "./Contacts/SearchContact.jsx";
 
 import {PURPLE, BACKGROUND} from '../helpers/colors'
 
